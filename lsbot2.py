@@ -1,4 +1,3 @@
-import logging
 import random
 import datetime
 import sqlite3
@@ -15,8 +14,6 @@ k = True
 from aiogram import Bot, Dispatcher, executor, types
 
 TOKEN = '2069498211:AAGnb9aaViXTlfiApOlR9f7-K0oz-esjtNI'
-
-logging.basicConfig(level = logging.INFO)
 
 bot = Bot(token = TOKEN)
 dp = Dispatcher(bot)
