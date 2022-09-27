@@ -1,5 +1,1 @@
-os
 aiogram==2.21
-sys
-smtplib
-ssl
