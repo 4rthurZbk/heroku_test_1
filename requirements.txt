@@ -1,0 +1,9 @@
+logging
+random
+datetime==4.3
+sqlite3
+os
+aiogram==2.21
+sys
+smtplib
+ssl
